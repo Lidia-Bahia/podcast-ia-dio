@@ -1,0 +1,26 @@
+## 🎙️ Prompt utilizado para gerar o roteiro do episódio
+**Podcast:** *Arte Sintética – Quando o algoritmo cria, ainda existe autoria?*  
+**Tema:** Reflexões sobre o uso de IA na criação artística.
+
+### 🧠 Prompt Final
+
+Crie um roteiro curto para um podcast apresentado por uma única pessoa chamada [**Nome da pessoa**].  
+O episódio deve discutir, com tom bem-humorado porém crítico, o uso de inteligência artificial para criação artística (texto, imagem, música e vídeo), levantando a reflexão: *"Quando o algoritmo cria, ainda existe autoria?"*
+
+**Estrutura obrigatória:**
+- **Introdução:** tom leve, curioso e um pouco irônico, como quem confessa que usou IA, mas ficou com um incômodo.
+- **Bloco 1 — Transparência e ética:** explique como imagens e outros conteúdos podem ser gerados a partir de obras de artistas que não autorizaram o uso de seus estilos. Linguagem simples.
+- **Bloco 2 — Autoria e sensibilidade humana:** questione direitos autorais, autoria e o que se perde na ausência do processo criativo humano.
+- **Finalização:** tom reflexivo e caloroso, convidando o ouvinte a pensar sobre seu papel como criador em um mundo automatizado.
+
+**Restrições:**
+- Evitar linguagem muito técnica.
+- O episódio inteiro deve ter até ~4 minutos de duração.
+- Manter humor leve, sem desrespeitar entusiastas de IA.
+- Não demonizar a tecnologia; tratá-la como ferramenta.
+
+---
+
+### 🔐 Nota ética / autoria
+Este prompt foi elaborado para fins educacionais.  
+O roteiro final passou por curadoria humana, com decisões de estilo, ritmo e posicionamento feitas manualmente. A ferramenta de IA acelerou o processo, mas não substituiu a intencionalidade criativa.

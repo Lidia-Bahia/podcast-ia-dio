@@ -1,0 +1,7 @@
+Geração da imagem para capa
+Site: LeonardoAI
+Modelo: Nano Banana
+Prompt Enhance: Auto
+Style: Illustration
+
+Prompt: create a artist girl character with glasses and long dark hair in a ponytail as podcaster, chibi cel-shade UI minimalistic, isometric, colors black, silver, gold, purple, pink and blue, low resolution, game boy colors, 8 bits, retro sprites
